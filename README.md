@@ -6,6 +6,8 @@ Durante o curso intensivo de JavaScript, o jogo da velha foi um dos primeiros pr
 
 Nesse projeto além de usar técnicas com HTML e CSS o foco também foi principalmente treinar muito a lógica.
 
+- Deploy: [Jogo da Velha](https://amandaadev.github.io/project-udemy-jogo-da-velha/)
+
 ## Índice
 
 - <a href="#sobre-o-jogo">Sobre o projeto</a>
