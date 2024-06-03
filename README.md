@@ -1,4 +1,4 @@
-# Jogo da Velha com praticas em HTML, CSS, DOM e eventos
+# Jogo da Velha com práticas em HTML, CSS, DOM e eventos
 
 ## Projeto prático criado a partir do curso intensivo de JavaScript do Básico ao Avançado (c/ Node.js e projetos) da <a href="https://www.udemy.com/"> Udemy</a>.
 
