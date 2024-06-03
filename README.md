@@ -8,4 +8,11 @@ Nesse projeto além de usar técnicas com HTML e CSS o foco também foi principa
 
 ### Sobre o jogo
 
-O usuário tem a opção de jogar contra um outro jogador físico ou uma IA.
+O usuário tem a opção de jogar contra um outro jogador físico:
+
+https://github.com/amandaadev/project-udemy-jogo-da-velha/assets/116441572/ee64fbf4-18c3-4b11-9e3e-fbcb94323957
+
+Ou contra a IA:
+
+https://github.com/amandaadev/project-udemy-jogo-da-velha/assets/116441572/2e52fcb5-512b-41b5-bf32-8eb0b22d44b6
+
