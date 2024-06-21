@@ -11,9 +11,9 @@ Nesse projeto além de usar técnicas com HTML e CSS o foco também foi principa
 ## Índice
 
 - <a href="#sobre-o-jogo">Sobre o jogo</a>
-- <a href="#aparência-do-jogo">Aparência do jogo</a>
-- <a href="#lógica-do-jogo">Lógica do jogo</a>
-- <a href="#lógica-da-jogada-da-ia"> Lógica da jogada da IA</a>
+- <a href="#aparencia-do-jogo">Aparência do jogo</a>
+- <a href="#logica-do-jogo">Lógica do jogo</a>
+- <a href="#logica-da-jogada-da-ia"> Lógica da jogada da IA</a>
 - <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
 - <a href="#desenvolvido-por"> Desenvolvido por</a>
 
