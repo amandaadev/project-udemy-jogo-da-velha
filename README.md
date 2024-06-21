@@ -15,7 +15,7 @@ Nesse projeto além de usar técnicas com HTML e CSS o foco também foi principa
 - <a href="#lógica-do-jogo-🔄">Lógica do jogo</a>
 - <a href="#lógica-da-jogada-da-ia-🔄"> Lógica da jogada da IA</a>
 - <a href="#tecnologias-utilizadas-🛠">Tecnologias utilizadas</a>
-- <a href="#👩🏽‍💻desenvolvido-por-👩🏽‍💻"> Desenvolvido por</a>
+- <a href="#desenvolvido-por-👩🏽‍💻"> Desenvolvido por</a>
 
 ## Sobre o jogo 📝
 
@@ -60,7 +60,7 @@ Com isso, essa lógica simples garante que a IA sempre faça uma jogada válida,
  <img alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 </div>
 
-## 👩🏽‍💻Desenvolvido por 👩🏽‍💻
+## Desenvolvido por 👩🏽‍💻
 
 ### `Amanda Hellen` durante o <strong>Curso de JavaScript do básico ao avançado (c/ Node.js e projetos)</strong> da Udemy.
 
